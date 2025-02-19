@@ -1,0 +1,40 @@
+{
+  "Среда, 19 февраля": {
+    "Ночь": {
+      "conditions": "Преимущественно облачно",
+      "feeling": "-10°",
+      "probability": "15%",
+      "pressure": "763",
+      "wind_direction": "северо-западный",
+      "wind_speed": "1.4",
+      "humidity": "87%"
+    },
+    "Утро": {
+      "conditions": "Ясно",
+      "feeling": "-8°",
+      "probability": "5%",
+      "pressure": "766",
+      "wind_direction": "северо-западный",
+      "wind_speed": "3.5",
+      "humidity": "87%"
+    },
+    "День": {
+      "conditions": "Ясно",
+      "feeling": "-8°",
+      "probability": "2%",
+      "pressure": "768",
+      "wind_direction": "западный",
+      "wind_speed": "1.8",
+      "humidity": "80%"
+    },
+    "Вечер": {
+      "conditions": "Ясно",
+      "feeling": "-9°",
+      "probability": "2%",
+      "pressure": "770",
+      "wind_direction": "северо-западный",
+      "wind_speed": "0.8",
+      "humidity": "90%"
+    }
+  }
+}
