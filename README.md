@@ -16,3 +16,26 @@
 ### git pull
 
 # !!! Вносить изменения нужно только в актуальное состояние !!! (сначала скачиваем изменения git pull)
+
+## СНАЧАЛА СОЗДАЕМ ОКРУЖЕНИЕ:
+# создание виртуального окружения Линукс:
+# python3 -m venv venv
+
+# создание виртуального окружения Windows
+# python -m venv venv
+
+## ПОТОМ АКТИВИРУЕМ
+# активация виртуального окружения Линукс:
+# source venv/bin/activate
+
+# активация виртуального окружения Windows
+# venv\Scripts\activate.bat
+
+## ПОТОМ УСТАНАВЛИВАЕМ БИБЛИОТЕКИ
+# pip install requests bs4
+
+## УСТАНОВКА ИЗ ФАЙЛА:
+# pip install -r requirements.txt
+
+## СОХРАНЕНИЕ БИБЛИОТЕК В ФАЙЛ:
+# pip freeze > requirements.txt
